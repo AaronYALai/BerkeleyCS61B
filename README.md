@@ -13,7 +13,7 @@ Implementations of data structures and algorithms introduced in Berkeley's [**CS
 - Linked Lists:
     * access control, nested class, recursion
     * Generics, Array, Invariants, Autoboxing
-    * higher order function, polymorphism, Comparable
+    * higher order function, polymorphism, comparable
 - Map (Hash Table):
     * Exception, Iterator/Iterable, Encapsulation
     * ADT implementation: Extension, Delegation, Adaptation
@@ -30,26 +30,35 @@ Implementations of data structures and algorithms introduced in Berkeley's [**CS
 - Graph:
     * DFS, BFS, topological sort
     * Shortest path: Dijkstra's, A*
-    * Minimum spanning tree: Prim's, Kruskal's
+    * Minimum spanning tree (MST): Prim's, Kruskal's
 - Complexity: P, NP, NP-complete
+
 
 Content
 --------
 
 Java Basics
-- 
+- Static and instance methods, Loops, Higher order function
+- Generics, Comparable, Array basics, Testing
+- Collections: ArrayList, HashSet, HashMap
 
 Linked Lists
-- 
+- Array list, Generic array list
+- Singly/Doubly linked lists (implements vs extends)
 
 Iterable, Array Map
-- 
+- Array Map with key Iterator
+- Un-ordered Linked List (ULL) Map
 
 Disjoint Sets
-- 
+- Quick find, Quick Union
+- Weighted Quick Union, Path Compression
 
 Tree
-- 
+- Binary Search by Array
+- Binary Search Tree
+- B-Tree by Left-Leaning Red-Black Tree
+- Tries
 
 Sorting
 - 
