@@ -1,4 +1,4 @@
-BerkeleyCS61B
+Berkeley CS 61B Data Structures
 ========
 
 About
