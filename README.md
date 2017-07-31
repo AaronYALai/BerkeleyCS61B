@@ -61,8 +61,11 @@ Tree
 - Tries
 
 Sorting
-- 
+- Mergesort, Heapsort, Quicksort
+- Insertion sort, Shell's sort
+- Most Significant Digit (MSD) Radix Sort
 
 Graph
-- 
+- Depth First Search (DFS), topological sort, Iterative DFS
+- Weighted Graph: Dijkstra's, Prim's, Kruskal's
 
